@@ -1,0 +1,4 @@
+C:\Users\Owner\Documents\Projects\General FileParsing\CSCI Job Emails\csJobEmails.txt
+Click on the job title to go to exact job posting:
+Login
+quit
